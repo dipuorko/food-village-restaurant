@@ -22,7 +22,7 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orangered, green);
+    background-image: linear-gradient(tomato, orangered);
     border-radius: 10px;
     color:whitesmoke;
     padding: 5px 20px;
