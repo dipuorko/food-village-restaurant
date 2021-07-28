@@ -1,0 +1,44 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 55px;
+    font-weight: 900;
+}
+.orange-color{
+    color: orangered
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 200px;
+}
+.half-width{
+    padding-left: 5%;
+    width: 50%
+}
+.half-width img{
+    width:80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered, green);
+    border-radius: 10px;
+    color:whitesmoke;
+    padding: 5px 20px;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(shapes/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.footer-banner{
+    display: flex;
+    margin-bottom: 200px;
+}
+#image{
+    width: 50%;
+}
+.footer-banner{
+    background-image: url(shapes/7.png);
+}
