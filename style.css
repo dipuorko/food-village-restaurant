@@ -74,3 +74,19 @@ h1{
     padding-left: 7%;
     padding-right: 7%;  
 }
+#end{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding-left: 10%;
+    padding-top:3%;
+    padding-right: 10%;
+    padding-bottom:3%;
+
+}
+#end h1{
+    color:gray;
+}
+#footer{
+    color:orange;
+}
